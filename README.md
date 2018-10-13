@@ -1,0 +1,2 @@
+# kadangjadi.js
+kadangjadi
